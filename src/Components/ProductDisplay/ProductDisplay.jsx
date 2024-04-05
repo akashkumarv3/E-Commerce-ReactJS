@@ -34,14 +34,20 @@ const ProductDisplay = (props) => {
             <div className="productdisplay-right-price-new">${product.new_price}</div>
         </div>
         <div className="productdiplay-right-description">
-            A lightweight,ndkjvneskjngkengnk
+            A lightweight,ndkjvneskjngkengnksdkjfnlksdflksdnglksdnglknsl
+            svnsldnfklsmfklmsdlfkmsd
+            msdvlknsdv
+            fhj,
         </div>
         <div className="productdisplay-right-size">
+            <h1>Select Size</h1>
+           <div className="productdisplay-right-sizes">
             <div>S</div>
             <div>M</div>
             <div>L</div>
             <div>XL</div>
             <div>XXL</div>
+           </div>
         </div>
        <button>ADD TO CART</button>
        <p className='productdicplay-right-category'><span>Category:</span>Women , T-Shirt ,Crop Top </p>
